@@ -5,10 +5,17 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaioEduardo772&bg_color=000000&color=AA00FF&line=2E1A47&point=301934&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-<a href="https://www.instagram.com/_eduuuzz/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<div align="center">
+ <a href="https://github.com/KaioEduardo772" target="_blank"><img height="30" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/_eduuuzz/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.facebook.com/share/1BQXcJtuQA/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Facebook-%230000FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</div>
+  
+  &nbsp;
+
+  <a href="https://github.com/KaioEduardo772" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
  
 ### Main skills:
