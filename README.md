@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AA00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kaio+Eduardo+Matos+De+Souza;I+study+Computer+Science+at+UDF;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AA00FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Kaio+Eduardo+Matos+De+Souza;I+study+Computer+Science+at+UDF;Be+welcome!+:3)](https://git.io/typing-svg) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaioEduardo772&bg_color=000000&color=AA00FF&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
